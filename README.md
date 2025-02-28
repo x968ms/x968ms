@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="6MN1aV4tqtw6kBUQozwSW_GVk2mIjf3nAnBzc_tKSbU" />
 # Hi there, I'm Viraj Ray (x968ms) 👋
 
 ## 🚀 About Me
