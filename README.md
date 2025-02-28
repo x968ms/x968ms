@@ -22,7 +22,7 @@ I'm a **Full Stack Developer, Data Analyst, and Cybersecurity Enthusiast** with 
 
 ## 📫 Connect With Me
 - **GitHub:** [@x968ms](https://github.com/x968ms)
-- **LinkedIn:** [Viraj Ray](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** [Viraj Ray](https://www.linkedin.com/in/viraj-ray-74a260310/)
 - **Email:** virajray968@gmail.com
 
 ## 😄 Pronouns
